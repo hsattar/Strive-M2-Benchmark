@@ -2,6 +2,10 @@
   --light-grey: rgb(218, 218, 218);
 }
 
+body {
+  background-color: var(--light-grey);
+}
+
 .user-account-area span {
   font-style: normal;
   margin-left: 0.25rem;
@@ -9,10 +13,6 @@
 
 .user-profile-img {
   border-radius: 50%;
-}
-
-.light-grey-bg {
-  background-color: var(--light-grey);
 }
 
 .carousel-item img {
