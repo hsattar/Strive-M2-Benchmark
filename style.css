@@ -84,6 +84,38 @@ body {
   background-image: url("./images/tile\ \(18\).jpg");
 }
 
+/* DISCOVER SECTION */
+
+.discover-img {
+  height: 100px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.discover-1 {
+  background-image: url("./images/tile\ \(11\).jpg");
+}
+
+.discover-2 {
+  background-image: url("./images/tile\ \(12\).jpg");
+}
+
+.discover-3 {
+  background-image: url("./images/tile\ \(13\).jpg");
+}
+
+.discover-4 {
+  background-image: url("./images/tile\ \(14\).jpg");
+}
+
+.discover-5 {
+  background-image: url("./images/tile\ \(15\).jpg");
+}
+
+.discover-6 {
+  background-image: url("./images/tile\ \(16\).jpg");
+}
+
 /* NEWS CAROUSEL */
 
 .news-carousel-img {
