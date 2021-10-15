@@ -59,6 +59,16 @@ body {
   opacity: 0;
 }
 
+/* WHAT'S GOOD SECTION */
+
+.main-good-card {
+  height: 580px;
+}
+
+.main-good-card img {
+  height: 500px;
+}
+
 /* SALE CAROUSEL */
 
 .sale-carousel-img {
@@ -125,7 +135,7 @@ body {
 }
 
 .featured img {
-  min-height: 125px;
+  min-height: 138px;
 }
 
 /* NEWS CAROUSEL */
