@@ -19,3 +19,13 @@ body {
   max-height: 500px;
   object-fit: cover;
 }
+
+.highlights-card-img {
+  height: 175px;
+  object-fit: cover;
+}
+
+.badge-purple {
+  background-color: rgb(114, 21, 114);
+  color: white;
+}
