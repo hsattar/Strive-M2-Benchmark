@@ -69,6 +69,16 @@ body {
   height: 500px;
 }
 
+.carousel-control-prev {
+  position: absolute;
+  left: -125px;
+}
+
+.carousel-control-next {
+  position: absolute;
+  right: -125px;
+}
+
 /* SALE CAROUSEL */
 
 .sale-carousel-img {
