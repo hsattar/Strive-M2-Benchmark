@@ -1,5 +1,6 @@
 :root {
-  --light-grey: rgb(218, 218, 218);
+  --light-grey: #dadada;
+  --purple-text: #721572;
 }
 
 body {
@@ -26,6 +27,17 @@ body {
 }
 
 .badge-purple {
-  background-color: rgb(114, 21, 114);
+  background-color: var(--purple-text);
   color: white;
+}
+
+.my-spinner {
+  height: 30px;
+  width: 30px;
+  border: 6px solid var(--purple-text);
+  border-radius: 50%;
+}
+
+.purple-text {
+  color: var(--purple-text);
 }
