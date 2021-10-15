@@ -50,3 +50,17 @@ body {
 .hide-item {
   opacity: 0;
 }
+
+/* .main-news-wrapper img {
+  width: 50%;
+}
+
+.second-news-wrapper img,
+.third-news-wrapper img {
+  width: 25%;
+} */
+
+.news-carousel-img {
+  min-height: 500px;
+  object-fit: cover;
+}
