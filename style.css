@@ -116,6 +116,18 @@ body {
   background-image: url("./images/tile\ \(16\).jpg");
 }
 
+.discover-7 {
+  background-image: url("./images/tile\ \(17\).jpg");
+}
+
+.discover-8 {
+  background-image: url("./images/tile\ \(18\).jpg");
+}
+
+.featured img {
+  min-height: 125px;
+}
+
 /* NEWS CAROUSEL */
 
 .news-carousel-img {
