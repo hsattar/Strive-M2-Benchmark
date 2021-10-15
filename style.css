@@ -59,6 +59,31 @@ body {
   opacity: 0;
 }
 
+/* SALE CAROUSEL */
+
+.sale-carousel-img {
+  min-height: 800px;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.sale-1 {
+  background-image: url("./images/tile\ \(1\).jpg");
+}
+
+.sale-2 {
+  background-image: url("./images/tile\ \(29\).jpg");
+}
+
+.sale-3 {
+  background-image: url("./images/tile\ \(36\).jpg");
+}
+
+.sale-4 {
+  background-image: url("./images/tile\ \(18\).jpg");
+}
+
 /* NEWS CAROUSEL */
 
 .news-carousel-img {
