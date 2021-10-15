@@ -29,6 +29,52 @@ body {
 
 /* HIGHLIGHTS SECTION */
 
+.main-carousel-img {
+  height: 400px;
+  width: 100%;
+  object-fit: cover;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.main-1 {
+  background-image: url("./images/carousel1.jpg");
+}
+
+.main-2 {
+  background-image: url("./images/carousel2.jpg");
+}
+
+.main-3 {
+  background-image: url("./images/carousel3.jpg");
+}
+
+.main-4 {
+  background-image: url("./images/carousel4.jpg");
+}
+
+.main-5 {
+  background-image: url("./images/carousel5.jpg");
+}
+
+.main-6 {
+  background-image: url("./images/carousel6.jpg");
+}
+
+.main-description {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background: rgb(26, 26, 26);
+  background: linear-gradient(
+    0deg,
+    rgba(26, 26, 26, 1) 0%,
+    rgba(17, 17, 17, 0.7514356084230567) 36%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
 .highlights-card-img {
   height: 175px;
   object-fit: cover;
